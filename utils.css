@@ -1,0 +1,117 @@
+
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-color{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    text-align: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.my-1{
+    margin-top: 50px;
+    margin-bottom:25px;
+    
+}
+
+.my-2{
+    margin-top: 13px;
+    margin-bottom:13px;
+}
+
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color: blueviolet;
+}
+
+.btn{
+    padding: 4px 12px;
+    border: 2px solid rgb(238, 220, 220);
+    color: white;
+    background-color: blueviolet;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn1{
+    padding: 4px 12px;
+    border: 2px solid rgb(169, 32, 214);
+    color: rgb(9, 8, 8);
+    background-color: rgb(234, 233, 236);
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.overflow-hidden{
+    overflow: hidden;
+}
+
+.padding{
+    padding: 0 200px;
+}
+
+.box{
+    padding: 8px 0px;
+    margin: 12px 24px;
+    min-width: 20vw;
+    border: 2px solid rgb(72, 29, 113);
+    text-align: center;
+    border-radius: 8px;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box ul li{
+    margin: 12px 2px;
+}
+
+.box h2{
+    margin: o 12px;
+    padding: 10px o;
+}
+
+.highlighted{
+    font-size: 1.5rem;
+    font-family: bolder;
+
+}
+
+.box h2{
+    font-size: 2rem;
+}
